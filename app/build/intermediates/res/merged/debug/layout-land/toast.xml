@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/custom_toast_layout"
+              android:orientation="horizontal"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:padding="8dp"
+              android:background="#DAAA"
+              >
+
+    <ImageView
+        android:layout_width="269dp"
+        android:layout_height="132dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/vote" />
+
+    <TextView
+        android:id="@+id/textToShow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textSize="40dp" />
+
+</LinearLayout>

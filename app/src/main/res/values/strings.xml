@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BellaBlu Rating</string>
+    <string name="lingua">Choose your language</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_review">Review</string>
+    <string name="cibo">Food</string>
+    <string name="servizi">Service</string>
+    <string name="atmosfera">Atmosphere</string>
+    <string name="title_activity_italian">Italian</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_french">French</string>
+    <string name="title_activity_german">German</string>
+    <string name="title_activity_russian">Russian</string>
+    <string name="title_activity_spanish">Spanish</string>
+    <string name="title_activity_english">English</string>
+    <string name="title_activity_foto_rosso">FotoRosso</string>
+
+</resources>

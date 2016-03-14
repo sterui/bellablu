@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\russian.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\src\\main\\res\\menu\\russian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\foto_rosso.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\src\\main\\res\\menu\\foto_rosso.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\english.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\src\\main\\res\\menu\\english.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\spanish.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\src\\main\\res\\menu\\spanish.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\french.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\src\\main\\res\\menu\\french.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\scelta_lingua.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\src\\main\\res\\menu\\scelta_lingua.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\italian.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\src\\main\\res\\menu\\italian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\german.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\src\\main\\res\\menu\\german.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\build\\intermediates\\res\\merged\\debug\\menu\\review.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\src\\main\\res\\menu\\review.xml"
+    }
+]

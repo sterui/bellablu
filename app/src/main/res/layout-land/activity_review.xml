@@ -1,0 +1,104 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#AEEEEE"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.bellabluclient.Review" >
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:layout_alignLeft="@+id/imageView12"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/cartoon" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="La tua opinione è gradita/\nYour opinion is appreciated"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView10"
+        android:layout_alignLeft="@+id/textView4"
+        android:layout_marginLeft="65dp"
+        android:text="Qualità cibo/\nFood "
+        android:textSize="35dp"
+        android:textStyle="italic" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/textView4"
+        android:layout_marginRight="52dp"
+        android:layout_toLeftOf="@+id/textView1"
+        android:src="@drawable/pizza" />
+
+    <RatingBar
+        android:id="@+id/ratingBar1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView1"
+        android:layout_marginLeft="112dp"
+        android:layout_toRightOf="@+id/textView1" />
+
+    <RatingBar
+        android:id="@+id/ratingBar2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/imageView11"
+        android:onClick="onClickIm"
+        android:layout_alignLeft="@+id/ratingBar1"
+        android:layout_marginBottom="41dp" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:layout_alignBottom="@+id/ratingBar2"
+        android:layout_alignLeft="@+id/imageView10"
+        android:src="@drawable/sweep" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_below="@+id/ratingBar2"
+        android:text="Servizio/\nService"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35dp"
+        android:textStyle="italic" />
+
+    <RatingBar
+        android:id="@+id/ratingBar3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView2"
+        android:layout_alignLeft="@+id/ratingBar2" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView12"
+        android:layout_alignLeft="@+id/textView1"
+        android:text="Bagni/\nToilet"
+        android:textSize="35dp"
+        android:textStyle="italic" />
+
+</RelativeLayout>

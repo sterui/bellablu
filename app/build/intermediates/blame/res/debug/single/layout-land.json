@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\toast.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\src\\main\\res\\layout-land\\toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_foto_rosso.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\src\\main\\res\\layout-land\\activity_foto_rosso.xml"
+    },
+    {
+        "merged": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_review.xml",
+        "source": "C:\\Users\\Stefano\\workspace\\BellaBluClient\\app\\src\\main\\res\\layout-land\\activity_review.xml"
+    }
+]
